@@ -10,5 +10,6 @@ public class TP {
         System.out.println("Por qué no muestra a Pusheen?");
         System.out.println("Y por línea de comandos...aparece Pusheen?");
         System.out.println("Y con el token? (desde NetBeans)");
+        System.out.println("Prueba luego de crear ssh signing key.");
     }
 }
