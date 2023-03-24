@@ -8,5 +8,6 @@ public class TP {
         System.out.println("Hola !!!");
         System.out.println("Cambio desde NetBeans.");
         System.out.println("Por qué no muestra a Pusheen?");
+        System.out.println("Y por línea de comandos...aparece Pusheen?");
     }
 }
